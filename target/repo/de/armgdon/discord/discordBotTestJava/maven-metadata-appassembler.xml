@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>de.armgdon.discord</groupId>
+  <artifactId>discordBotTestJava</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200415100807</lastUpdated>
+  </versioning>
+</metadata>
